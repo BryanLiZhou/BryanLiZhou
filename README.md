@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics, Geographic Information System (GIS), Database, and the Web
 - 🌱 I’m currently learning R, SQL, Python, Javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : bryanlzhou@gmail.com
 
 <!---
 BryanLiZhou/BryanLiZhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
