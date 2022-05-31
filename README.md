@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BryanLiZhou
-- 👀 I’m interested in Data Analytics, Geographic Information System (GIS), Database, and the Web
+- 👀 I’m interested in Geoscience, Data Analytics, Geographic Information System (GIS)
 - 🌱 I’m currently learning R, SQL, Python, Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : bryanlzhou@gmail.com
