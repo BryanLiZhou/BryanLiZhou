@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BryanLiZhou
+- 👋 Hi, I’m Bryan Li Zhou
 - 👀 I’m interested in Geoscience, Data Analysis, Geographic Information System (GIS), and Database
 - 🌱 I’m currently learning R, SQL, Python, Javascript
 - 💞️ I’m looking to collaborate on ...
